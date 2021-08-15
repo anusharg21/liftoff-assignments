@@ -19,5 +19,5 @@ https://trello.com/b/MtAVHfjJ/st-louis-attractions-board
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
 ### Project Repo Link
-https://github.com/anusharg21/antwan-group-a
+https://github.com/LaunchCodeEducation/liftoff-assignments
 Include a link to your project on GitHub.
